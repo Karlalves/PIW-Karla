@@ -1,0 +1,9 @@
+{
+  "name": "karla",
+  "version": "1.0.0",
+  "description": "projeto 1 piw",
+  "main": "index.js",
+  "repository": "https://github.com/Karlalves/PIW-Karla.git",
+  "author": "karla",
+  "license": "MIT"
+}
